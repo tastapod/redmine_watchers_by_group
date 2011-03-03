@@ -1,0 +1,16 @@
+#watchers_form {
+  display: none;
+}
+
+#watchers ul {
+  margin-left: 150px;
+}
+
+#watchers li {
+  float: left;
+  width: 12em;
+}
+
+#watchers li.not_watching {
+  display: none;
+}
